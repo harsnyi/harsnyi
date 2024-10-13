@@ -1,21 +1,10 @@
 # 💫 About Me:
 
-🎓 **Final Year Student** | Bachelor's in Computer Engineering @ Budapest University of Technology and Economics  
-📚 **Thesis Topic**: Computer Vision  
+Hi there! 👋 I'm currently in the final semester of my Bachelor's degree in Computer Engineering 🎓 at the Budapest University of Technology and Economics. My thesis focuses on the exciting field of computer vision 👁️‍🗨️, where I explore innovative solutions through technology.
 
-🎯 **Next Steps**:  
-- 🔜 MSc in Applied Mathematics, specializing in Data Science  
-- 🎯 Deepening my expertise in mathematical modeling and data-driven solutions  
+After completing my degree, I aim to dive even deeper into the world of data science 🌐 by pursuing a Master's degree in Applied Mathematics 📚, specializing in Data Science. This will allow me to enhance my expertise in mathematical modeling 📊 and data-driven solutions 🚀.
 
-💡 **What I'm Passionate About**:  
-- 🤖 Machine Learning  
-- 🧠 Neural Networks  
-- 📊 Mathematics  
-
-🚀 **I Love**:  
-- Tackling real-world problems  
-- Collaborating in teams 🤝  
-- Embracing new challenges 🌟  
+I'm passionate about machine learning 🤖, neural networks 🧠, and mathematics ➗, and I love solving real-world problems 🔍. Teamwork is where I thrive, and I enjoy collaborating 🤝 to overcome challenges and drive professional growth 🌟.
 
 
 ## 🌐 Socials:
