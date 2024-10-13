@@ -1,5 +1,21 @@
 # 💫 About Me:
-I am currently in the final semester of my Bachelor's degree in Computer Engineering at the Budapest University of Technology and Economics, with my thesis focusing on the field of computer vision. After obtaining my degree, I plan to pursue a Master's degree in Applied Mathematics with a specialization in Data Science to further deepen my expertise in mathematical modeling and data-driven solutions. I am passionate about machine learning, neural networks, and mathematics. I enjoy working on solving real-world problems, collaborate well in teams, and am open to new challenges that support my professional growth.
+
+🎓 **Final Year Student** | Bachelor's in Computer Engineering @ Budapest University of Technology and Economics  
+📚 **Thesis Topic**: Computer Vision  
+
+🎯 **Next Steps**:  
+- 🔜 MSc in Applied Mathematics, specializing in Data Science  
+- 🎯 Deepening my expertise in mathematical modeling and data-driven solutions  
+
+💡 **What I'm Passionate About**:  
+- 🤖 Machine Learning  
+- 🧠 Neural Networks  
+- 📊 Mathematics  
+
+🚀 **I Love**:  
+- Tackling real-world problems  
+- Collaborating in teams 🤝  
+- Embracing new challenges 🌟  
 
 
 ## 🌐 Socials:
