@@ -1,4 +1,4 @@
-- Data/Platform Engineer
+- Platform/Devops Engineer
 
 - Security enthusiast
 
